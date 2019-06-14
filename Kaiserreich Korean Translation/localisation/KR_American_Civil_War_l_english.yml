@@ -260,12 +260,12 @@ amcivwar.5.a:0 "아니었으면..."
 
 ### Set Up Events - Long ###
 amcivwar.6.t:0 "롱 대통령이 미주 연합을 선포하다"
-amcivwar.6.d:0 "President Huey Long has escaped to New Orleans and has declared that General MacArthur is a traitor to the people of America. He has gained ready listeners among a number of southern governors, all of whom have recognized that they no longer recognize MacArthur's authority, and demanded his resignation. Long has spoken on the radio, urging all Americans to support the legitimate President and fight against the tyranny MacArthur represents."
+amcivwar.6.d:0 "휴이 롱 은 뉴올리언스로 탈출해 맥아더 장군이 미국 국민의 배신자라고 선언했습니다. 그는 많은 남부 지사들 사이에서 준비된 청취자를 얻었는데, 그들은 모두 맥아더의 권위를 더 이상 인정하지 않는다는 것을 인식하고 그의 퇴진을 요구했습니다. 롱은 라디오에서 모든 미국인에게 합법적인 대통령을 지지하고 맥아더가 대표하는 폭정에 맞서 싸울 것을 촉구했습니다."
 amcivwar.6.a:0 "공화국을 지켜내자"
 amcivwar.6.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.7.t:0 "잭 리드가 행동을 촉구하다"
-amcivwar.7.d:0 "Jack Reed has given a rousing a radio broadcast from Chicago, urging all his followers to rise up against the twin tyrants of MacArthur and Huey Long. Within the hour, a number of governors across the Steel Belt have announced their support and declared both President Long and General MacArthur as having no true authority. The governors have been bolstered by Reed's supporters, who within days have overtaken army posts and erected road blocks throughout the northern states."
+amcivwar.7.d:0 "잭 리드는 시카고에서 라디오 방송을 열면서 모든 추종자들이 맥아더와 휴이 롱의 쌍둥이 폭군에 맞서 일어설 것을 촉구했습니다. 한 시간 안에, 스틸 벨트를 가로지르는 많은 주지사들이 지지를 선언했고 롱 대통령과 맥아더 장군 모두 진정한 권한이 없다고 선언했습다. 주지사들은 리드의 지지자들에 의해 지지를 받아왔습니다. 리드는 수일 내에 군 초소를 점령하고 북부 주 전역에 도로를 건설했습니다."
 amcivwar.7.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.7.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
@@ -503,13 +503,13 @@ amcivwar.54.b:0 "순양함"
 ### USA events ###
 
 amcivwar.61.t:0 "징병제"
-amcivwar.61.d:0 "With the war going on the question, is should we implement conscription or not. Doing so would provide us with the men we need to restore order to the country. However, it is not a popular move. Some suggest focusing on Propaganda instead. "
+amcivwar.61.d:0 "전쟁이 계속되면서 징병제를 실시해야 하는가, 말아야 하는가 하는 것입니다. 그렇게 하는 것은 우리에게 그 나라에 질서를 회복하는데 필요한 사람들을 제공할 것입니다. 하지만 대중적인 움직임은 아닙니다. 몇몇 사람들은 대신 선전물에 초점을 맞추라고 제안하고 있습니다. "
 amcivwar.61.a:0 "징병제를 시행하라"
 amcivwar.61.b:0 "대신 선전 활동에 주력하라"
 
 amcivwar.62.t:0 "중국 주둔 해병대의 귀환"
-amcivwar.62.d:0 "With the outbreak of the civil war, our garrison in the legation cities has been recalled back to the US to fight. This has left our diplomats in China in a bit of a bind, however, with the civil war raging we need all the men that we can get. "
-amcivwar.62.a:0 "I hope they brought souvenirs"
+amcivwar.62.d:0 "내전의 발발과 함께, 건설 도시에 있는 우리의 수비대는 미국으로 다시 돌아와 싸우기로결정했습니다. 이 때문에 중국에 있는 우리 외교관들은 약간 궁지에 몰렸지만, 내전이 격화되면서 우리는 우리가 얻을 수 있는 모든 사람들을 필요로 합니다. "
+amcivwar.62.a:0 "나는 그들이 기념품을 가져왔기를 바란다."
 
 amcivwar.63.t:0 "파나마 주둔군"
 amcivwar.63.d:0 "내전의 발발과 함께, 파나마 주둔군은 정부에 가담해 싸우기 위해 미국으로의 귀환을 결정했습니다. 주둔군의 귀환은 비록 운하를 무방비 상태로 남기기는 했지만, 우리는 싸울 수 있는 사람을 가능한 한 많이 모아야 합니다."
@@ -521,9 +521,9 @@ amcivwar.64.a:0 "시민들의 고통을 덜어주어라"
 amcivwar.64.b:0 "우리군을 지원한다"
 
 amcivwar.65.t:0 "계엄령?"
-amcivwar.65.d:0 "With the civil war raging a question has come about suspending habeas corpus and enforcing martial law in occupied territories. Those within our General Staff are even divided, as it could create more rebels than it defeats pre-emptivly. It might allow us to keep things under control during the civil war but such a move is naturally controversial. What shall be done?"
+amcivwar.65.d:0 "내전이 치열해지면서 점령지에 계엄령을 시행하는 것에 대한 의문이 제기되었습니다. 우리 총참모부 내의 사람들은 심지어 분열되어 있는데, 그것은 그것이 선제적으로 패배하는 것보다 더 많은 반군을 만들 수 있기 때문입니다. 그것은 우리가 내전 기간 동안 상황을 통제할 수 있게 해줄 수도 있지만, 그러한 움직임은 당연히 논란이 될수도있습니다."
 amcivwar.65.a:0 "계엄령을 강화하라"
-amcivwar.65.b:0 "Civil order is better"
+amcivwar.65.b:0 "시민들의 고통을 덜어주자"
 
 amcivwar.66.t:0 "충성주의자의 테러"
 amcivwar.66.d:0 "During the ongoing civil war, some of our commanders started to use rather doubtful methods to permanently suppress civilian populations suspected of helping our mortal enemies. When pressed, the President has defended their actions, stating 'Only discretionary violence was used, any commander capable of true brutality has already become a rebel'. "
